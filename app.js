@@ -1,4 +1,4 @@
-const navSlide = () => {
+    const navSlide = () => {
     const xtudo = document.querySelector('.xtudo');
     const nav = document.querySelector('.nav-links');
     const navLinks = document.querySelectorAll('.nav-links li');
